@@ -17,12 +17,12 @@ uid: e922df96-bc00-4156-997b-3f6bba8b43a1
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/NJgZZ41rBXg/default.jpg
   video_transcript_file: ''
 video_metadata:
   source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: NJgZZ41rBXg
 ---
