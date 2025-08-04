@@ -1,5 +1,4 @@
 leftnav:
 - identifier: fa846fdd-bae2-42ab-bcdd-01ef0ac2eae4
   name: My First Item
-  pageRef: /external-resources/httpsnetflixcom
   weight: 10
