@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/intro-to-quantum-computing/omedetou.jpg
+file: /courses/phy431-intro-to-quantum-computing-spring-2025/omedetou.jpg
 file_size: 65707
 file_type: image/jpeg
 image_metadata:
