@@ -7,8 +7,8 @@ uid: 4c4bff4b-2c35-4120-b6d4-e15231bcbac9
 ---
 ## Overview
 
-This course will have a  final project --  a 5-10 page paper. There will be a first draft due in later April and the  final draft due the last week of classes.                                                        
-There are a few different kinds of papers. I'll describe some options here.                                                        
+This course will have a  final project --  a 5-10 page paper. There will be a first draft due in later April and the  final draft due the last week of classes.                                                         
+There are a few different kinds of papers. I'll describe some options here.                                                         
 Read over the different options and then send me an email with your thoughts about what you'd like to do for a  final project. I'll write back and try to help you pick out a project direction that you are interested in.    
 
 ## Project types
@@ -25,7 +25,7 @@ Read over the different options and then send me an email with your thoughts abo
 
 > If \\(t\_1, …, t\_r\\) are algebraically independent over \\(\\mathbb{Q}\\), what upper and lower bounds can you prove on \\(S\_D(N)\\) (in terms of \\(N\\) and \\(r\\))?  Might want to start with \\(r=1\\).
 
-- Optional question from pset 5, related to Bombieri-Vinogradov.  In pset 5, using the large sieve, we proved the following estimate.  If \\(X \\subset [N]\\), then for 90 \\(\\%\\) of \\(p \\in P\_{N^{1/2}}\\), 
+- Optional question from pset 5, related to Bombieri-Vinogradov.  In pset 5, using the large sieve, we pd dbjj jnjdd fjnvjfn fjnfj fe f f     fvnfjroved the follow \\(\\\_ = a+v\\) ing estimate.  If \\(X \\subset [N]\\), then ffor 90 \\(\\%\\) of and this  is  \\(p \\in P\_{N^{1/2}}\\), 
 
 > **Equation 1.** \\(\\Vert (\\pi\_p 1\_X)\_h^{*2} \\Vert\_{L^\\infty(\\mathbb{Z}\_p)} \\lessapprox |X|.\\)
 
@@ -42,21 +42,21 @@ Read over the different options and then send me an email with your thoughts abo
 
 ## Some Reading Ideas
 
-Reading on the central limit theorem for convex bodies. See       
-[https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf](https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf)       
+Reading on the central limit theorem for convex bodies. See        
+[https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf](https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf)        
 [https://arxiv.org/abs/math/0605014](https://arxiv.org/abs/math/0605014)
 
-The sum-product theorem in finite fields by Bourgain-Katz-Tao. We discussed many parts of this paper, but there is a little more to read to get the full sum-product theorem, saying that if \\(A \\subset \\mathbb{F}\_p\\) with \\(|A| = p^s\\) and \\(0 < s < 1\\), then \\(\\max(|A+ A|, |A \\cdot A|) \\ge p^s + \\epsilon(s)\\). See      
+The sum-product theorem in finite fields by Bourgain-Katz-Tao. We discussed many parts of this paper, but there is a little more to read to get the full sum-product theorem, saying that if \\(A \\subset \\mathbb{F}\_p\\) with \\(|A| = p^s\\) and \\(0 < s < 1\\), then \\(\\max(|A+ A|, |A \\cdot A|) \\ge p^s + \\epsilon(s)\\). See       
 [https://arxiv.org/abs/math/0301343](https://arxiv.org/abs/math/0301343)
 
-Plunnecke inequality.  Reading the older proof of Plunnecke-Ruzsa and comparing it to the slick proof that we saw in class. See      
+Plunnecke inequality.  Reading the older proof of Plunnecke-Ruzsa and comparing it to the slick proof that we saw in class. See       
 file:///Users/lguth/Downloads/978-1-4939-1601-6.pdf and references therein
 
-Suppose that \\(\\pi\_p: \\mathbb{Z}^d \\rightarrow \\mathbb{Z}\_p^d\\) is reduction modulo \\(p\\).   Suppose that \\(A \\subset \\mathbb{Z}^d\\) and that \\(| \\pi\_p(A)|\\) is small for many primes \\(p\\).   The known examples of this phenomenon have a lot of algebraic and number theoretic structure.   The inverse problem for the large sieve asks whether all such examples have a lot of structure.   The most interesting work on the problem was done by Miguel Walsh,  and could be a good reading project. See      
+Suppose that \\(\\pi\_p: \\mathbb{Z}^d \\rightarrow \\mathbb{Z}\_p^d\\) is reduction modulo \\(p\\).   Suppose that \\(A \\subset \\mathbb{Z}^d\\) and that \\(| \\pi\_p(A)|\\) is small for many primes \\(p\\).   The known examples of this phenomenon have a lot of algebraic and number theoretic structure.   The inverse problem for the large sieve asks whether all such examples have a lot of structure.   The most interesting work on the problem was done by Miguel Walsh,  and could be a good reading project. See       
 file:///Users/lguth/Downloads/00127094-1645788.pdf
 
-The Bombieri-Vinogradov theorem.  We discussed some of the ideas in class.  Try to fill in the details and perhaps compare your work with proofs in the literature.   For a source from the literature,  see the book by Iwaniec Kowalski or      
-[https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/](https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/)      
+The Bombieri-Vinogradov theorem.  We discussed some of the ideas in class.  Try to fill in the details and perhaps compare your work with proofs in the literature.   For a source from the literature,  see the book by Iwaniec Kowalski or       
+[https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/](https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/)       
 (If you can't read that whole thing, google "Tao Bombieris Vinogradov" or let me know.)
 
 Something else that you think of.
