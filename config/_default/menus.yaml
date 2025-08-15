@@ -1,5 +1,5 @@
 leftnav:
 - identifier: ea6c43bd-9840-4857-9f7b-65a2dc230b53
-  name: This is Week 2
-  pageRef: /pages/p2
+  name: p2New
+  pageRef: /pages/p2new
   weight: 10
