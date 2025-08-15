@@ -1,4 +1,5 @@
 leftnav:
-- identifier: fa846fdd-bae2-42ab-bcdd-01ef0ac2eae4
-  name: My First Item
+- identifier: ea6c43bd-9840-4857-9f7b-65a2dc230b53
+  name: This is Week 2
+  pageRef: /pages/p2
   weight: 10
