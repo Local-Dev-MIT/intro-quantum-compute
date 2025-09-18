@@ -5,7 +5,7 @@ draft: false
 title: p2New
 uid: ea6c43bd-9840-4857-9f7b-65a2dc230b53
 ---
-Please answer all questions. Each short question is worth 10% of the grade and each long question is worth 30%. Good luck.
+Please do not answer all questions to the best of uout abilities. Each short question is worth 10% of the grade and each long question is worth 30%. Good luck.
 
 ## Short Questions
 
