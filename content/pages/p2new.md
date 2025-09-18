@@ -5,17 +5,17 @@ draft: false
 title: p2New
 uid: ea6c43bd-9840-4857-9f7b-65a2dc230b53
 ---
-Please answer all questions. Each short question is worth 10% of the grade and each long question is worth 30%. Good luck.
+Please answer all questions to the best of uout abilities. Each short question is worth WTH 10% of the grade and each long question is worth 30%. Good luck.
 
 ## Short Questions
 
-1. Suppose that    
+1. Suppose that     
       
-    \\(Y(t) = \\text{exp}(g\_At)F(\\text{exp}(g\_Kt)K(t), \\text{exp}(g\_Lt)L(t))\\),    
+    \\(Y(t) = \\text{exp}(g\_At)F(\\text{exp}(g\_Kt)K(t), \\text{exp}(g\_Lt)L(t))\\),     
       
     where \\(F\\) exhibits constant returns to scale. Suppose that \\(\\dot{L}(t)/L(t) = n\\) and \\(\\dot{K}(t) = sY(t)\\). Suppose also that \\(F\\) is not Cobb-Douglas (more specifically, suppose the share of labor is not constant as the effective capital-labor ratio \\(\\text{exp}(g\_K(t))K(t) / \\text{exp}(g\_L(t))L(t)\\) changes). Show that balanced growth, where output grows at a constant rate, is only possible if \\(g\_K = g\_A = 0\\).
 2. Consider the following overlapping generations model with competitive markets. There are \\(N\\) generations, each of which lives for two periods. Agents from generation \\(i\\) supply labor at time \\(t = i\\) and live off capital income at time \\(t = i + 1\\). The last generation \\(N\\) simply receives an exogesnous rate of return \\(\\bar{R}\\) on their savings at time \\(t = N +1\\). Is the competitive equilibrium of this economy Pareto optimal? Now consider the same economy with \\(N = \\infty\\). Is the competitive equilibrium still Pareto optimal? Provide an economic intuition (no need for math) for your answer.
-3. Answer both parts:    
+3. Answer both parts:     
       
     - The fact that changes in the policies and institutions of countries has no effect on their long-run growth rate is a challenge to endogenous growth models. True or false?
     - Endogenous technological change models imply that product market competition is welfare-reducing because, by reducing monopoly rents, it discourages technological change and economic growth. True or false?
