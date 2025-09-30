@@ -5,6 +5,7 @@ draft: false
 file: /gdrive_uploads/intro-to-quantum-computing/1xn6eo1gf7jpo4uq3oHxLIPWb4Zbr4ayb/shuttle.mp4
 file_size: 13425255
 file_type: video/mp4
+gdrive_url: ''
 image_metadata:
   caption: ''
   credit: ''
