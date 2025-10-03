@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Custom Video Resource
+title: Custom Video Resource Editing
 uid: 3e05a9ca-adc3-4dcf-9c6b-333d0536f8e0
 video_files:
   archive_url: ''
