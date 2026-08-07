@@ -1,11 +1,10 @@
 ---
-body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/intro-to-quantum-computing/1xn6eo1gf7jpo4uq3oHxLIPWb4Zbr4ayb/shuttle.mp4
-file_size: 13425255
-file_type: video/mp4
-gdrive_url: 1xn6eo1gf7jpo4uq3oHxLIPWb4Zbr4ayb
+file: null
+file_size: null
+file_type: ''
+gdrive_url: ''
 image_metadata:
   caption: ''
   credit: ''
@@ -13,18 +12,18 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Yeah shuttle mp4n
-uid: 719e8191-3474-4b89-94b9-cb7b8fdf0fd9
+title: Custom Video Resource Editing
+uid: 3e05a9ca-adc3-4dcf-9c6b-333d0536f8e0
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/abcdef/default.jpg
   video_transcript_file: ''
 video_metadata:
-  source: ''
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: abcdef
 ---
-8yu
+This is cushtom
