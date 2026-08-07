@@ -21,7 +21,13 @@ title: Yeah shuttle mp4
 uid: 719e8191-3474-4b89-94b9-cb7b8fdf0fd9
 video_files:
   archive_url: ''
+  video_captions_resources:
+  - file: /courses/phy431-intro-to-quantum-computing-spring-2025/NJgZZ41rBXg_captions.webvtt
+    language: fr
   video_thumbnail_file: ''
+  video_transcript_resources:
+  - file: /courses/phy431-intro-to-quantum-computing-spring-2025/NJgZZ41rBXg_transcript.pdf
+    language: en
 video_metadata:
   source: ''
   video_speakers: ''
