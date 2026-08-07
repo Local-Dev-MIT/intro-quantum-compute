@@ -1,4 +1,5 @@
 ---
+audience: []
 body: ''
 content_type: resource
 draft: false
@@ -10,16 +11,17 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+language: zh
 learning_resource_types: []
+level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+locale: ''
 resourcetype: Video
-title: Yeah shuttle mp4n
+title: Yeah shuttle mp4
 uid: 719e8191-3474-4b89-94b9-cb7b8fdf0fd9
 video_files:
   archive_url: ''
-  video_captions_file: ''
   video_thumbnail_file: ''
-  video_transcript_file: ''
 video_metadata:
   source: ''
   video_speakers: ''
@@ -27,4 +29,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-8yu
