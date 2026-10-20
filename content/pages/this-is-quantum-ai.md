@@ -10,4 +10,4 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 title: This is Quantum AI
 uid: 0e14cc8c-9c5f-4de5-bb94-94db5f563723
 ---
-Ok. We'll add a markdown link. See how it saves [link](https://studio.ocw.mit.dev/foobar)
+Ok. We'll add a markdown link. See how it saves [link](foobar)
