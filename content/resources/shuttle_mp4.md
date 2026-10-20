@@ -1,8 +1,9 @@
 ---
+audience: []
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/intro-to-quantum-computing/1xn6eo1gf7jpo4uq3oHxLIPWb4Zbr4ayb/shuttle.mp4
+file: /ol-ocw-studio-app-local/gdrive_uploads/intro-to-quantum-computing/1xn6eo1gf7jpo4uq3oHxLIPWb4Zbr4ayb/shuttle.mp4
 file_size: 13425255
 file_type: video/mp4
 gdrive_url: 1xn6eo1gf7jpo4uq3oHxLIPWb4Zbr4ayb
@@ -10,16 +11,19 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+language: zh
 learning_resource_types: []
+level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+locale: ''
 resourcetype: Video
-title: Yeah shuttle mp4n
+title: Yeah shuttle mp4
 uid: 719e8191-3474-4b89-94b9-cb7b8fdf0fd9
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_resources: []
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_resources: []
 video_metadata:
   source: ''
   video_speakers: ''
@@ -27,4 +31,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-8yu
